@@ -22,7 +22,7 @@ function iLoveTheBeatles (number){
   
   do {
     number++;
-    newArray.push "I love the Beatles!";
+    newArray.push("I love the Beatles!");
   } while ();
   
 }
