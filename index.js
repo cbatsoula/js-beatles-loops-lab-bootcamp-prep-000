@@ -21,7 +21,7 @@ function iLoveTheBeatles (number){
   var newArray = [];
   
   do {
-    console.log("I love the Beatles!")
+    console.log("I love the Beatles!");
   } while ();
   
 }
